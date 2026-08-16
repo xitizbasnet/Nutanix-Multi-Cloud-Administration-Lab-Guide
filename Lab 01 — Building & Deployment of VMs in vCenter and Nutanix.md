@@ -248,6 +248,3 @@ Upon completion of this lab, the administrator should have experience with:
 | Guest Tools Installation  | VMware Tools   | NGT               |
 | CLI Verification          | PowerCLI       | `acli` / `nucalm` |
 
-> **📌 Source Document Information:**
-> **Nutanix & Multi-Cloud Admin | Lab Guide Vinod Muleva | Cloud & DevOps Engineer**
-> **Nutanix & Multi-Cloud Administration Lab Guide | 2025 Page 3**
